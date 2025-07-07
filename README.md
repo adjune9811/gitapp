@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/idmay25/Project-One/_apis/build/status%2Fadjune9811.gitapp?branchName=master)](https://dev.azure.com/idmay25/Project-One/_build/latest?definitionId=19&branchName=master)
